@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UpdateApkDemo</string>
+    <string name="update1">通知栏更新</string>
+    <string name="update2">对话框更新</string>
+</resources>
